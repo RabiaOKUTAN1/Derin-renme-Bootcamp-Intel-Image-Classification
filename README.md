@@ -124,3 +124,4 @@ https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classi
 
 
 
+
