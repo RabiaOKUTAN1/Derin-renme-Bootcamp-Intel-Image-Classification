@@ -66,6 +66,7 @@ Eğitim ve doğrulama verileri %80–%20 oranında ayrılmıştır. (validation_
 Görseller 150x150 boyutuna yeniden boyutlandırılmıştır.
 
 ### 3. Veri Artırma
+
 ImageDataGenerator ile eğitim verisi çeşitlendirilmiştir.
 
 Amaç: modelin ezberlemesini önlemek ve genelleme yeteneğini artırmak
@@ -102,12 +103,12 @@ Model oluşturulurken :
 * Model eğitiminde batch size 32 olarak seçilmiştir; bu, her iterasyonda 32 örnek üzerinden ağırlıkların güncellenmesini sağlayarak eğitim süresini kısa tutarken modelin genelleme performansını korumasına yardımcı olmuştur.
 
 * Confusion Matrix ile modelin hangi sınıfları tespit etmede fazlaca hata yaptığı belirtilmiştir.
-  
-*İlk eğitilen modelde test doğruluğu %72.9 iken hiperparemetre optimizasyonu kapsamında:
+  .
+*İlk eğitilen modelde test doğruluğu %78.6 iken hiperparemetre optimizasyonu kapsamında:
   Öğrenme oranı 0.001’den 0.0005’e düşürülmüş
   Katman sayısı 3’ten 4’e çıkarılmıştır Bu iyileştirmeler doğruluk skorunu artırmıştır.
 
-Proje sonucunda , CNN mimarisi ile eğitilmiş, sınıf tahmininde doğruluğu %82 olan bir model elde edilmiştir. 
+Proje sonucunda , CNN mimarisi ile eğitilmiş, sınıf tahmininde doğruluğu %84.87 olan bir model elde edilmiştir. 
 
 ## Gelecek Çalışmalar 
 
@@ -118,7 +119,6 @@ Ayrıca modele bazı sınıfların (glacier,building) tespitinde doğruluğun ol
 ## Kaggle Linki
 
 (Kod çıktıları dosyayı kaydederken silindi . Kod çıktıları dosyalar kısmındaki  github nootbookunda bulunmaktadır.)
-https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classification
 
 https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classification
 
