@@ -108,7 +108,7 @@ Model oluşturulurken :
 
 Proje sonucunda , CNN mimarisi ile eğitilmiş, sınıf tahmininde doğruluğu %82 olan bir model elde edilmiştir. 
 
-### Gelecek Çalışmalar 
+## Gelecek Çalışmalar 
 
 Modelin doğruluk oranı arttırabilir.Farklı hiperparemetreler ile model test edilebilir. Gelecek çalışmalarda modelde optimizasyon yapılması beklenmektedir.
 
@@ -116,7 +116,7 @@ Ayrıca modele bazı sınıfların (glacier,building) tespitinde doğruluğun ol
 
 ## Kaggle Linki
 
-
+https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classification 
 
 
 
