@@ -1,4 +1,5 @@
 # Derin Öğrenme Bootcamp - Intel Image Classification
+Ad Soyad : Rabia Okutan 
 
 ## Projenin Amacı
 
