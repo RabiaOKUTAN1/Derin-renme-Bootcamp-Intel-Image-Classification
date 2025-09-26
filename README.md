@@ -117,7 +117,8 @@ Ayrıca modele bazı sınıfların (glacier,building) tespitinde doğruluğun ol
 
 ## Kaggle Linki
 
-https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classification 
+https://www.kaggle.com/code/rabiiaokutan/derin-renme-bootcamp-intel-image-classification
+
 
 
 
